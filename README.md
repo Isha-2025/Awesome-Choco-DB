@@ -5,3 +5,4 @@ Use the sample data file provided - [Sample-Data](sample-data-DB.xlsx)
 
 View the completed dashboard here - [Excel-Dashboard](awesome-chocolates-DB.xlsx)
 
+![Excel_Dashboard](Excel_Dashboard.png)
